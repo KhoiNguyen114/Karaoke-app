@@ -1,0 +1,6 @@
+E:\Cong nghe phan mem\GiaoDien_Hung\txtChiNhapSoThuc\bin\Debug\txtChiNhapSoThuc.dll
+E:\Cong nghe phan mem\GiaoDien_Hung\txtChiNhapSoThuc\bin\Debug\txtChiNhapSoThuc.pdb
+E:\Cong nghe phan mem\GiaoDien_Hung\txtChiNhapSoThuc\obj\Debug\txtChiNhapSoThuc.dll
+E:\Cong nghe phan mem\GiaoDien_Hung\txtChiNhapSoThuc\obj\Debug\txtChiNhapSoThuc.pdb
+E:\Cong nghe phan mem\GiaoDien_Hung\txtChiNhapSoThuc\obj\Debug\txtChiNhapSoThuc.csproj.AssemblyReference.cache
+E:\Cong nghe phan mem\GiaoDien_Hung\txtChiNhapSoThuc\obj\Debug\txtChiNhapSoThuc.csproj.CoreCompileInputs.cache

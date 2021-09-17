@@ -1,0 +1,33 @@
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\bin\Debug\DoAnKaraoke.exe.config
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\bin\Debug\DoAnKaraoke.exe
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\bin\Debug\DoAnKaraoke.pdb
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.FormDangNhap.resources
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.FormDoiMatKhau.resources
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.FormMain.resources
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.FormQuanLyNguoiDung.resources
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.Properties.Resources.resources
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.csproj.GenerateResource.Cache
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.exe
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.pdb
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.csprojResolveAssemblyReference.cache
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.FormLoaiPhong.resources
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.FormPhongHat.resources
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.FormLoaiKhachHang.resources
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.FormKhachHang.resources
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.FormNhanVien.resources
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.FormDichVu.resources
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.FormNhaCungCap.resources
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.FormQLDatPhong.resources
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.FormQLDichVu.resources
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.FormQLTimPhong.resources
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.FormThongTin.resources
+E:\HK2_3_2020_21\CongNghePhanMem\DoAnKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.FormNhapHang.resources
+C:\Users\Admin\Desktop\GiaoDien_Hung\DoAnKaraoke\bin\Debug\DoAnKaraoke.exe.config
+C:\Users\Admin\Desktop\GiaoDien_Hung\DoAnKaraoke\obj\Debug\DoAnKaraoke.exe
+C:\Users\Admin\Desktop\GiaoDien_Hung\DoAnKaraoke\obj\Debug\DoAnKaraoke.pdb
+E:\Cong nghe phan mem\DoAn_QuanLyQuanKaraoke\DoAnKaraoke\bin\Debug\DoAnKaraoke.exe.config
+E:\Cong nghe phan mem\DoAn_QuanLyQuanKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.exe
+E:\Cong nghe phan mem\DoAn_QuanLyQuanKaraoke\DoAnKaraoke\obj\Debug\DoAnKaraoke.pdb
+E:\Cong nghe phan mem\GiaoDien_Hung\DoAnKaraoke\bin\Debug\DoAnKaraoke.exe.config
+E:\Cong nghe phan mem\GiaoDien_Hung\DoAnKaraoke\obj\Debug\DoAnKaraoke.exe
+E:\Cong nghe phan mem\GiaoDien_Hung\DoAnKaraoke\obj\Debug\DoAnKaraoke.pdb
